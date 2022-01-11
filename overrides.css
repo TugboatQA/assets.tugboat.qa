@@ -1,0 +1,12 @@
+ol, ul {
+  color: inherit !important;
+}
+
+ol li {
+  padding-left: 40px;
+}
+
+ol ::marker {
+  font-family: Poppins,sans-serif;
+  font-weight: bold;
+}
